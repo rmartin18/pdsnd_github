@@ -191,5 +191,6 @@ def main():
         if restart.lower() != 'yes':
             break
 
+# Init Main
 if __name__ == "__main__":
 	main()
