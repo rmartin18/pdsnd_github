@@ -192,3 +192,8 @@ def main():
 
 if __name__ == "__main__":
 	main()
+
+#Informarion
+
+def calculate_distance(a, b):
+    return abs(a - b)
