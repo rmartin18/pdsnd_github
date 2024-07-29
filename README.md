@@ -21,3 +21,4 @@ washington.csv
 
 ### Credits
 https://www.udacity.com/
+Ricard Martin
